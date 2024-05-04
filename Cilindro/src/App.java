@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args)  {
 
-        System.out.println("Segunda version");
+        System.out.println("Tercera version");
       
        Scanner entrada = new Scanner(System.in);
 
